@@ -29,4 +29,5 @@ go.work.sum
 
 # Testing Files and Scripts
 test/
-stepOneTest
+*.sh
+
